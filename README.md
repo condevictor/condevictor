@@ -21,5 +21,4 @@
 - 📧 **victorcondedev@email.com**
 
 ---
-
-✨ Sempre aprendendo, testando e construindo coisas novas!
+Sempre aprendendo, testando e construindo coisas novas!
