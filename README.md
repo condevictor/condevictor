@@ -6,7 +6,7 @@
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react,angular,nodejs,tailwind,figma,linux,git,vscode,´postgresql,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react,angular,nodejs,tailwind,figma,linux,git,postgresql,redis)](https://skillicons.dev)
 
 ---
 
