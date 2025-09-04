@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Victor Conde
 
-<!--
-**condevictor/condevictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Sistemas de Informação** no CIn/UFPE  
+💻 Apaixonado por **Cibersegurança** e **Desenvolvimento Web**   
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias & Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react,angular,nodejs,tailwind,figma,linux,git,vscode)](https://skillicons.dev)
+
+---
+
+## 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorConde&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorConde&layout=compact&theme=tokyonight)
+
+---
+
+## 🌎 Onde me encontrar
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)  
+- 📧 **victorconde@email.com**
+
+---
+
+✨ Sempre aprendendo, testando e construindo coisas novas!
