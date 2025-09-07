@@ -17,7 +17,7 @@
 ---
 
 ## 🌎 Onde me encontrar
-- 💼 [LinkedIn](www.linkedin.com/in/victor-conde-62ab2b306)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/victor-conde-62ab2b306)  
 - 📧 **victorcondedev@email.com**
 
 ---
